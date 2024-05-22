@@ -3,3 +3,4 @@
   description: 'A TOML toolkit written in Rust'
   entry: taplo format
   language: conda
+  types: [toml]
