@@ -1,0 +1,5 @@
+- id: taplo-conda
+  name: taplo-conda
+  description: 'A TOML toolkit written in Rust'
+  entry: taplo format
+  language: conda

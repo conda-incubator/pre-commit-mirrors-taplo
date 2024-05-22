@@ -1,0 +1,8 @@
+# This file is managed by Copier; DO NOT EDIT OR REMOVE.
+_commit: v0.1.9-16-g2ebc061
+_src_path: git@github.com:quantco/copier-template-pre-commit-mirrors
+conda_package: taplo
+description: 'A TOML toolkit written in Rust'
+entry: taplo format
+tool: taplo
+url: https://github.com/tamasfe/taplo
