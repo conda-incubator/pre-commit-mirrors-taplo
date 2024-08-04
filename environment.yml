@@ -2,4 +2,4 @@ channels:
   - conda-forge
   - nodefaults
 dependencies:
-  - taplo=0.9.1
+  - taplo=0.9.3
